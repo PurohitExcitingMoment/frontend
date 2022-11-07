@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Arima&family=Baloo+Thambi+2&family=Dancing+Script:wght@500&family=Macondo&family=Montserrat:wght@300&family=Nunito:ital,wght@0,700;1,600&family=Pacifico&family=Roboto+Slab&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&family=Sora&display=swap');
+
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Arima', cursive;
-   
+    font-family: 'Sora', sans-serif;
 }
 .navbar .navbar-nav .nav-item {
     position: relative;
@@ -69,12 +69,14 @@ header{
     letter-spacing: 2px;
     margin: 5% 5%;
     font-weight: 800;
+    font-size: 40px;
 }
+
 #services{
     padding-top: 4%;
     padding-right: 4%;
     padding-left: 4%;
-    background:linear-gradient(rgba(24, 24, 23, 0.5),rgba(248, 240, 238, 0.2)), url(./images/ful.jpg);
+    background:linear-gradient(rgba(24, 24, 23, 0.5),rgba(248, 240, 238, 0.2)), url('/images/lantern-6894507.jpeg');
     -webkit-background-size: cover;
     background-size: cover;
    
@@ -135,7 +137,7 @@ header{
 .icons{
    
     margin-top: 2%;
-    background-color: rgba(10, 10, 10,0.3);
+    background-color: rgba(10, 10, 10,0.4);
     background-size: cover;
     padding-top: 2%;
     text-align: center;

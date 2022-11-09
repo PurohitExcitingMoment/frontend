@@ -1,0 +1,47 @@
+
+.nav-item{
+    text-align: center;
+}
+.card{
+    position: relative;
+    width: 18rem;
+    height: 15rem;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    transition: 0.3s;
+    padding: 30px 40px;
+    background-color:rgb(255, 236, 200);
+    margin: auto;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    cursor: pointer;
+   }
+   .imgbox{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    width: 12rem;
+    height: 15rem;
+    transform: translateY(-60px);
+   }
+   img{
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   }
+   #photo-page{
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#photo{
+    height: 500px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+   
+ }

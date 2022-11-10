@@ -76,7 +76,7 @@ header{
     padding-top: 4%;
     padding-right: 4%;
     padding-left: 4%;
-    background:linear-gradient(rgba(24, 24, 23, 0.5),rgba(248, 240, 238, 0.2)), url('/images/lantern-6894507.jpeg');
+    background:linear-gradient(rgba(24, 24, 23, 0.5),rgba(248, 240, 238, 0.2)), url('images/lantern-6894507.jpeg');
     -webkit-background-size: cover;
     background-size: cover;
    
